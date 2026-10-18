@@ -1,0 +1,4 @@
+# Ignorar todo, excepto estas reglas y el notebook
+*
+!.gitignore
+!/FMNIST_Callbacks,_Data_Modules,_Data_Loaders_[[]PYTORCH_LIGHTNING_].ipynb
